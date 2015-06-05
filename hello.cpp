@@ -10,5 +10,6 @@ using namespace std;
 int main()
 {
     cout << "hello world" << endl;
+    cout << "fuck you boss" << endl;
     return 0;
 }
